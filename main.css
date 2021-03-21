@@ -1,0 +1,51 @@
+body{
+    background: #222;
+}
+
+#navbar {
+    background: #556;
+    /*height: 100px */
+
+    padding: 0 50px;
+
+}
+
+#navbar ul {
+    /*border:  1px solid #999;*/
+
+}
+#navbar li {
+    /*border:  1px solid #666;*/
+    float: left;
+}
+
+#navbar li a {
+    color: white;
+    padding: 37px 18px;
+    display: block;
+
+}
+
+#navbar .nav-brand {
+    float: left;
+}
+
+#navbar .nav-main {
+    float: right;
+    margin-right: 15%;
+}
+
+#navbar .nav-main {
+    float: right;
+}
+
+#navbar .nav-user {
+    float: right;
+}
+
+#navbar .clear {
+    clear: both;
+}
+
+
+
